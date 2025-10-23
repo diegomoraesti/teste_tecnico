@@ -1,4 +1,4 @@
-# Coleta de Partidas do Brasileirão Série A - GE
+# Coleta de Partidas do Brasileirão Série A
 
 Este projeto coleta os jogos da próxima rodada do **Brasileirão Série A**
 
