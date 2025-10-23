@@ -12,3 +12,6 @@ Este projeto coleta os jogos da próxima rodada do **Brasileirão Série A**
 ---
 ## Introdução:
 - Nesse repositório pode ser encontrado dois diretórios com projetos distintos para obtenção de informações da próxima rodada do brasileirão
+
+---
+## Observação: Os resultados dos dois scripts podem divergir devido a variações nas fontes de dados fornecidas por terceiros.
